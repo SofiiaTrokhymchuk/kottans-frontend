@@ -8,6 +8,7 @@
 2. [Linux CLI and Networking](#linux-cli-and-networking)
 3. [Git Collaboration](#git-collaboration)
 4. [Intro to HTML and CSS](#intro-to-html-and-css)
+5. [Responsive Web Design](#responsive-web-design)
 ---
 ## Git Basics
 While doing this section, I've passed Udacity course about Git. I have already knew basic Git commands, however, some of the commands at the end of the course where new for me.
@@ -69,5 +70,25 @@ Codecademy wasn't interesting enough as well. I think if I was new to HTML and C
   <img src="task_html_css_intro/codecademy.png" alt="Codecademy Result">
 </details> 
 
-Overall, passing through this module was kind of tedious because I was already familiar with HTML and CSS so practicaly I haven't learned anything new. But!!! I've actually pointed out some nuances which I didn't know that well. So basically it wasn't that mush useless.
+Overall, passing through this module was kind of tedious because I was already familiar with HTML and CSS so, practically, I haven't learned anything new. *But!!!* I've actually pointed out some nuances which I didn't know that well. So, basically, it wasn't that mush useless.
 
+## Responsive Web Design
+This module was extremely interesting for me. First of all,  I'm curious about responsive web-design and different structure types of layouts (*Flexbox and Grid Layout*). Second of all, I like frogs :frog::green_heart:, and I had the oportunity to play with them on [Flexbox Froggy](http://flexboxfroggy.com/#uk).
+
+The first article of this module was interesting, however, I've been already familiar, for instance, with *@media query* and other things, which were mentioned there.
+
+Even though I've already knew a little bit about **Flexbox**, it was super interesting for me to learn new properties and play with code on [Flexbox Froggy](http://flexboxfroggy.com/#uk) and by my own.
+
+<details>
+  <summary>Flexbox Froggy Result :camera:</summary>
+  <img src="task_responsive_web_design/flexbox_froggy.png" alt="Flexbox Froggy Result">
+</details> 
+
+Learning about **Grid** was a bit complicated, because I haven't heard about this layout type before, and Grid is 2-dimentional. Despite this fact, it was still interesting and easy to learn. I think that Grid is the best way to make interesting layouts with images of different sizes (something like collages). And I also had a lot of while olaying with Grid on [Grid Garden](http://cssgridgarden.com/).
+
+<details>
+  <summary>Grid Garden Result :camera:</summary>
+  <img src="task_responsive_web_design/grid_garden.png" alt="Grid Garden Result">
+</details>
+
+To sum up, I've learned a lot of new stuff, which I'll definitely use in the future.
