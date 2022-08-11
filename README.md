@@ -9,6 +9,7 @@
 3. [Git Collaboration](#git-collaboration)
 4. [Intro to HTML and CSS](#intro-to-html-and-css)
 5. [Responsive Web Design](#responsive-web-design)
+6. [HTML CSS Popup](#html-css-popup)
 ---
 ## Git Basics
 While doing this section, I've passed Udacity course about Git. I have already knew basic Git commands, however, some of the commands at the end of the course where new for me.
@@ -92,3 +93,7 @@ Learning about **Grid** was a bit complicated, because I haven't heard about thi
 </details>
 
 To sum up, I've learned a lot of new stuff, which I'll definitely use in the future.
+
+## HTML CSS Popup
+It was a really cool experience for me to practice my HTML and CSS skills in making Hooli Style Pop-Up. I've gained useful practice in making layouts and responsive Web Desing as well.
+You can check the result of my work on [GitHub Pages](https://sofiiatrokhymchuk.github.io/hooli-style-pop-up/) and review my [Code Base](https://github.com/SofiiaTrokhymchuk/hooli-style-pop-up). I really hope you like it!
