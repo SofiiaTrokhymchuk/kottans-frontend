@@ -10,6 +10,7 @@
 4. [Intro to HTML and CSS](#intro-to-html-and-css)
 5. [Responsive Web Design](#responsive-web-design)
 6. [HTML CSS Popup](#html-css-popup)
+7. [JS Basics](#js-basics)
 ---
 ## Git Basics
 While doing this section, I've passed Udacity course about Git. I have already knew basic Git commands, however, some of the commands at the end of the course where new for me.
@@ -97,3 +98,22 @@ To sum up, I've learned a lot of new stuff, which I'll definitely use in the fut
 ## HTML CSS Popup
 It was a really cool experience for me to practice my HTML and CSS skills in making Hooli Style Pop-Up. I've gained useful practice in making layouts and responsive Web Desing as well.
 You can check the result of my work on [GitHub Pages](https://sofiiatrokhymchuk.github.io/hooli-style-pop-up/) and review my [Code Base](https://github.com/SofiiaTrokhymchuk/hooli-style-pop-up). I really hope you like it!
+
+## JS Basics
+Learning JS was super fun for me. JS Basics was a little bit dull. However, I really liked Basic Algorithm Scripting, Functional Programming and Intermediate Algorithm Scripting because I like solving different problems. I knew some JS Basics before, but passing through this module made me more fluent in *coding on JavaScript*. This reminded me of classical meme phrase "Is your native language JavaScript, (~~swear word~~)?" =D.
+
+Anyway, you can checkout my JS progress here:
+<details>
+  <summary>JS Basics Results :camera:</summary>
+  <img src="task_js_basics/coursera_js.png" alt="Coursera Result">
+  <img src="task_js_basics/basic_js.png" alt="Basic JS Result">
+  <img src="task_js_basics/es6_js.png" alt="ES6 Result">
+  <img src="task_js_basics/data_structures_js.png" alt="Data Structures Result">
+  <img src="task_js_basics/algorithms_js.png" alt="Basic Algorithm Result">
+  <img src="task_js_basics/functional_js.png" alt="Functional Programming Result">
+  <img src="task_js_basics/algorithms_intermediate_js.png" alt="Intermediate Algorithm Result">
+</details>
+
+To sum up, I've learned how to code on JS like a normal person.
+
+
