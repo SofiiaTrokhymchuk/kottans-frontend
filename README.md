@@ -40,9 +40,7 @@ I was already familiar with HTTP basics and even had some practise in creating J
 
 ## Git Collaboration
 
-I've accomplished both Qwiklabs Assignments, and this gave me deeper understanding of working with remote repositories and I will definitely use new knowledge in practise.\
-**Week 3 Assignment:** [Introduction to Github](https://github.com/SofiiaTrokhymchuk/Intro-to-Github)\
-**Week 4 Assignment:** [Pushing Local Commits to Github](https://github.com/SofiiaTrokhymchuk/it-cert-automation-practice)
+I've accomplished both Qwiklabs Assignments, and this gave me deeper understanding of working with remote repositories and I will definitely use new knowledge in practise.
 <details>
   <summary>Coursera Results :camera:</summary>
   <img src="task_git_collaboration/coursera_week3.png" alt="Week 3 Result">
