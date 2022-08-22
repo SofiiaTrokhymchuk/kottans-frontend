@@ -11,6 +11,8 @@
 5. [Responsive Web Design](#responsive-web-design)
 6. [HTML CSS Popup](#html-css-popup)
 7. [JS Basics](#js-basics)
+8. [DOM](#dom)
+9. [A Tiny JS World](#a-tiny-js-world)
 ---
 ## Git Basics
 While doing this section, I've passed Udacity course about Git. I have already knew basic Git commands, however, some of the commands at the end of the course where new for me.
@@ -114,4 +116,10 @@ Anyway, you can checkout my JS progress here:
 
 To sum up, I've learned how to code on JS like a normal person.
 
+## DOM
+
+## A Tiny JS World
+This task was easy at first sign, however, I had some troubles in optimization of my code. But after all, I've complitited this task and trained more in creating JS objects.
+
+You can check out my work on [GitHub Pages](https://sofiiatrokhymchuk.github.io/a-tiny-JS-world/) and look through my [Code Base](https://github.com/SofiiaTrokhymchuk/a-tiny-JS-world).
 
