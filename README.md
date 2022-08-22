@@ -119,7 +119,7 @@ To sum up, I've learned how to code on JS like a normal person.
 ## DOM
 
 ## A Tiny JS World
-This task was easy at first sign, however, I had some troubles in optimization of my code. But after all, I've complitited this task and trained more in creating JS objects.
+This task was easy at first sign, however, I had some troubles in optimization of my code. But after all, I've completed this task and trained more in creating JS objects.
 
 You can check out my work on [GitHub Pages](https://sofiiatrokhymchuk.github.io/a-tiny-JS-world/) and look through my [Code Base](https://github.com/SofiiaTrokhymchuk/a-tiny-JS-world).
 
