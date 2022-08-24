@@ -117,6 +117,17 @@ Anyway, you can checkout my JS progress here:
 To sum up, I've learned how to code on JS like a normal person.
 
 ## DOM
+I've finished watching Coursera videos out DOM manipulation and completed a few more tasks on Freecodecamp.
+
+<details>
+  <summary>Coursera & FreeCodeCamp Results :camera:</summary>
+  <img src="task_js_dom/coursera_dom.png" alt="Coursera Result">
+  <img src="task_js_dom/intermediate_js.png" alt="FreeCodeCamp Result">
+</details>
+
+But the most interesting part was making my own DOM project. It was a great experience to make an interactive page using JS, especially if its content is based on one of my my favorite anime series. I've gained a lot of knowledge and practical experience which I'll use in the future. 
+
+My work is located on [GitHub Pages](https://sofiiatrokhymchuk.github.io/js-dom-task/) and my Code Base is [here](https://github.com/SofiiaTrokhymchuk/js-dom-task).
 
 ## A Tiny JS World
 This task was easy at first sign, however, I had some troubles in optimization of my code. But after all, I've completed this task and trained more in creating JS objects.
