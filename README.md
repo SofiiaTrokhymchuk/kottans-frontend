@@ -13,6 +13,7 @@
 7. [JS Basics](#js-basics)
 8. [DOM](#dom)
 9. [A Tiny JS World](#a-tiny-js-world)
+10. [Object Oriented JS](#object-oriented-js)
 ---
 ## Git Basics
 While doing this section, I've passed Udacity course about Git. I have already knew basic Git commands, however, some of the commands at the end of the course where new for me.
@@ -134,3 +135,17 @@ This task was easy at first sign, however, I had some troubles in optimization o
 
 You can check out my work on [GitHub Pages](https://sofiiatrokhymchuk.github.io/a-tiny-JS-world/) and look through my [Code Base](https://github.com/SofiiaTrokhymchuk/a-tiny-JS-world).
 
+## Object Oriented JS
+I had a lot of fun while completing this task. 
+
+First of all, I watched all the videos (OOP Part 1 - Classes & OOP Part 2 - Prototypes), then I practiced on Codewars and reached 7 kyu.
+ 
+<details>
+  <summary>Codewars Result :camera:</summary>
+  <img src="task_js_oop/codewars.png" alt="Codewars Result">
+</details>
+
+Finally, I have practiced creating JS objects using `prototype` and defining methods for these objects. What is more, it was completely new for me.
+
+- Code for this task: [Code Base](https://sofiiatrokhymchuk.github.io/frontend-nanodegree-arcade-game/)
+- GitHub Pages for this task: [Demo](https://github.com/SofiiaTrokhymchuk/frontend-nanodegree-arcade-game)
