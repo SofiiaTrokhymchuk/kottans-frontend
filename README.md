@@ -14,6 +14,7 @@
 8. [DOM](#dom)
 9. [A Tiny JS World](#a-tiny-js-world)
 10. [Object Oriented JS](#object-oriented-js)
+11. [OOP Exercise](#oop-exercise)
 ---
 ## Git Basics
 While doing this section, I've passed Udacity course about Git. I have already knew basic Git commands, however, some of the commands at the end of the course where new for me.
@@ -149,3 +150,8 @@ Finally, I have practiced creating JS objects using `prototype` and defining met
 
 - Code for this task: [Code Base](https://sofiiatrokhymchuk.github.io/frontend-nanodegree-arcade-game/)
 - GitHub Pages for this task: [Demo](https://github.com/SofiiaTrokhymchuk/frontend-nanodegree-arcade-game)
+
+## OOP Exercise
+This task was not hard to implement but hard to understand how to implement OOP *correctly*. I had some struggles, but after all, I became better in **OOP**, **SOLID** and **composition**. This new knowledge will be definitely useful in the future.
+
+You can check out my work on [GitHub Pages](https://sofiiatrokhymchuk.github.io/a-tiny-JS-world/) and look through my [Code Base](https://github.com/SofiiaTrokhymchuk/a-tiny-JS-world).
